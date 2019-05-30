@@ -12,7 +12,7 @@ My research involved creating 5 different variations of AlexNet by changing vari
 
 For image recognition accuracy, the AlexNet variations performed similarly to the original AlexNet. All variations achieved a top-1 accuracy higher than 50%, whereas the original AlexNet had a top-1 accuracy of 57.1% [2]. Interestingly, the variation with normalization removed indeed shows a reduced fit to biological V2 data.
 
-# References
+## References
 
 1) J. Freeman, C. M. Ziemba, D. J. Heeger, E. P. Simoncelli, and J. [7] A. Movshon, ”A functional and perceptual signature of the second visual area in primates,” Nature Neuroscience, vol. 16, no.7, 2013.
 
